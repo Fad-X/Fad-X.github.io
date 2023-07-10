@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOB SECURITY
+title: FAD-X
 ---
 * * *
 ### Hi 👋, Welcome To My CyberSecurity Page
@@ -16,3 +16,10 @@ title: SOB SECURITY
 - **Twitter:** `https://twitter.com/_Fad_X`
 - **Github:** `https://github.com/Fad-X`
 - **Linkedin:** `https://linkedin.com/in/fadilulah-ajeigbe`
+
+
+## **HACKTHEBOX -- WRITEUPS**
+
+
+## **TRYHACKME -- WRITEUPS**
+
