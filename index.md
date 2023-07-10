@@ -20,6 +20,6 @@ title: FAD-X
 
 ## **HACKTHEBOX -- WRITEUPS**
 - **May 16, 2023:** [HackTheBox -- PC](https://github.com/Fad-X/Write-Up/blob/main/htb/PC/Hack%20The%20Box%20PC%20384d9e92dc2a4799b60ea6bb3dea9892.md)
-- **May 23, 2022:** [HackTheBox -- PRECIOUS](https://github.com/Fad-X/Write-Up/blob/main/htb/precious/Hack%20The%20Box%20Precious%20fec6cf67dcae43dfb0f8276daf44ef77.md)
+- **May 23, 2023:** [HackTheBox -- PRECIOUS](https://github.com/Fad-X/Write-Up/blob/main/htb/precious/Hack%20The%20Box%20Precious%20fec6cf67dcae43dfb0f8276daf44ef77.md)
 ## **TRYHACKME -- WRITEUPS**
-
+- **May 26, 2023:** [TryHackMe -- Valley](https://github.com/Fad-X/Write-Up/blob/main/thm/Valley/TRYHACKME%20Valley%20b8efeb18d0f14105a88e7ce8374ac0e4.md)
