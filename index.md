@@ -30,3 +30,7 @@ title: FAD-X
 
 ## **Vulnhub -- WRITEUPS**
 - **June 12, 2023:** [Vulnhub -- Speedster](https://github.com/Fad-X/Write-Up/blob/main/labs/Scarlet%20Speedster%20b1b89bf70da94cf5894f1b7bf906a09a.md)
+
+
+## **AWS GOAD SETUP**
+- **October 24, 2023:** [AWS GOAD Setup](https://github.com/Fad-X/Write-Up/blob/main/AWS%20GOAD%20Setup/Readme.md)
