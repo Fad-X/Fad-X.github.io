@@ -33,4 +33,4 @@ title: FAD-X
 
 
 ## **AWS GOAD SETUP**
-- **October 24, 2023:** [AWS GOAD Setup](https://github.com/Fad-X/Write-Up/blob/main/AWS%20GOAD%20Setup/Readme.md)
+- **October 24, 2023:** [AWS GOAD Setup](https://github.com/Fad-X/Write-Up/blob/main/AWS%20GOAD%20Setup)
