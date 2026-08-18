@@ -1,11 +1,35 @@
-title: root💀Fad-X:~#
-description: No Machine Is 100% efficient!!!
-show_downloads: false
-show_repo: false
+# Site settings
+title: "root💀Fad-X:~#"
+description: "Security Analyst (SOC) · DFIR · Detection & Response — security tooling, threat-hunting projects, and hands-on labs by Fadilulah Ajeigbe (Fad-X)."
+tagline: "No Machine Is 100% efficient!!!"
+author: Fadilulah Ajeigbe
+lang: en
+
+# Theme
 theme: jekyll-theme-hacker
 
-gems:
-  - jekyll-sitemap
+# GitHub Pages page options
+show_downloads: false
+show_repo: false
 
-whitelist:
+# Author / social (used by jekyll-seo-tag for rich link previews)
+twitter:
+  username: _Fad_X
+social:
+  name: Fadilulah Ajeigbe
+  links:
+    - https://github.com/Fad-X
+    - https://linkedin.com/in/fadilulah-ajeigbe
+    - https://twitter.com/_Fad_X
+
+# Plugins (modern key — replaces the deprecated `gems:`)
+plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
